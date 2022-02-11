@@ -4,3 +4,5 @@
 /model.bin.syn1neg.npy
 /model.bin.wv.vectors.npy
 /model.txt
+/glove.twitter.27B.200d.txt
+/lstm1/
