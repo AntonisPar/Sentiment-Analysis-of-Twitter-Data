@@ -6,3 +6,11 @@
 /model.txt
 /glove.twitter.27B.200d.txt
 /lstm1/
+/glove.6B.50d.txt
+/glove.6B.100d.txt
+/glove.6B.200d.txt
+/glove.6B.300d.txt
+/glove.6B.zip
+/simple_test.ipynb
+/lstm2/
+/mGRU/
