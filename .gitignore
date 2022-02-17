@@ -17,3 +17,5 @@
 /tak_metadata.tsv
 /tak_tensor.tsv
 /lstm3/
+/project_metadata.tsv
+/project_tensor.tsv
