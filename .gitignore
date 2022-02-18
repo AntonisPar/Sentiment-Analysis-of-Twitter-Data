@@ -19,3 +19,9 @@
 /lstm3/
 /project_metadata.tsv
 /project_tensor.tsv
+/lstm4/
+/lstm_false/
+/lstm_true/
+/simple_neural/
+/simple_neural_False/
+/simple_neural_True/
