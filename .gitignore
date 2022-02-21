@@ -25,3 +25,11 @@
 /simple_neural/
 /simple_neural_False/
 /simple_neural_True/
+/lstm_false_lem_100/
+/lstm_TRUE_lem_100/
+/lstm_TRUE_NOlem_100/
+/simple_neural_False_lem_100hidden/
+/simple_neural_False_noLem/
+/simple_neural_False_noLem_1000hidden/
+/simple_neural_true_lem_100hidden/
+/simple_neural_true_lem_100hidden_globalmax/
